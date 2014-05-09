@@ -1,7 +1,5 @@
 # Spam Filter
-This repository contains the code of my final project for the course Artificial Intelligence II at University of Seville.
-
-The description of the project can be found on the docs folder, with the memory written about the project as well (both documents in Spanish).
+This repository contains the code of my final project for the course Artificial Intelligence II at University of Seville. The description of the project can be found on the docs folder, with the memory written about the project as well (both documents in Spanish).
 
 The project consisted of creating a spam filter using artificial intelligence techniques. The algorithm must have been selected from a list or created by the student. It must be written in Lisp, C or Java. The dataset used for classifying the emails was enron.
 
